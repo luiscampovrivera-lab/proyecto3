@@ -10,4 +10,6 @@
 #print(palindromo)
 
 
-ciclo = ("poo", "diseño multimedia" , "metodologia de desarrollo de software" ,"matematicas", "base de datos")
+ciclo = ["poo", "diseño multimedia" , "metodologia de desarrollo de software" ,"matematicas", "base de datos"]
+
+notas = ["10","10" ,"10" ,"10" ,"10"]
